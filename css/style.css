@@ -69,6 +69,11 @@ body {
 NAVIGATION COMPONENT 
 *********************/
 /*mobile nav */
+
+/* The above code is defining the styles for a header section of a website, including the logo,
+navigation menu, and its behavior when the user scrolls down the page. It also defines the styles
+for a mobile menu button and its behavior when clicked. */
+
 .btn-menu {
   display: none;
   border: none;
@@ -147,6 +152,10 @@ NAVIGATION COMPONENT
 /******************
     SECTION-HERO 
 *******************/
+/* The above code is defining CSS styles for the hero section of a webpage. It sets the background
+color, padding, and layout of the hero section using CSS grid. It also styles the text and image
+within the hero section, including font sizes, colors, and alignment. */
+
 .section-hero {
   background-color: #fce6e6;
   padding: 4.6rem 0 9rem 0;
@@ -205,6 +214,12 @@ NAVIGATION COMPONENT
     BUTTONS
 ***************/
 
+/* The above code is defining CSS styles for two types of buttons: btn-1 and btn-2. The btn-1 buttons
+have a solid background color and change color on hover, while the btn-2 buttons have a border and
+transparent background, and change color on hover. Both types of buttons have similar font styles
+and padding. The code also defines styles for different states of the buttons, such as when they are
+visited or active. */
+
 .cta-btn,
 .btn-1:link,
 .btn-1:visited {
@@ -258,6 +273,11 @@ NAVIGATION COMPONENT
 /*******************
 INSURED IMAGES COMPONENT 
 *********************/
+/* The above code is defining the CSS styles for a section of a webpage that displays images and text
+related to insurance. It sets the display to flex, aligns items to the center, adds a margin to the
+top, and sets a gap between elements. It also styles the images by setting their height, width,
+border radius, and border color. The text is styled with a specific font size, weight, and color,
+and a span element within the text is styled with a different color. */
 .insured-container {
   display: flex;
   align-items: center;
@@ -289,6 +309,11 @@ INSURED IMAGES COMPONENT
 /*******************
 HOW-IT-WORKS SECTION
 *********************/
+
+/* The above code is defining CSS styles for a section called "how-it-works" which includes headings,
+text boxes, step numbers, descriptions, and images. The styles define the layout, font sizes,
+colors, and other visual properties of these elements. The code also includes a hover effect for the
+appointment icon image. */
 
 .how-it-works {
   padding: 5rem 0;
@@ -367,6 +392,8 @@ HOW-IT-WORKS SECTION
 /*******************
 REUSABLE COMPONENT
 *********************/
+/* The above code is defining CSS styles for a webpage. */
+
 .container {
   max-width: 120rem;
   margin: 0 auto;
@@ -390,6 +417,11 @@ REUSABLE COMPONENT
 /*******************
 PLANS-SECTION
 *********************/
+
+/* The above code is defining the CSS styles for a section of a webpage that displays plans or
+packages. It includes styles for hiding elements, creating a grid layout, styling individual plans,
+and defining hover effects. It also includes styles for plan titles, plan coverage details, and
+sub-coverage details. */
 
 /* PLAN-01 */
 .hidden {
